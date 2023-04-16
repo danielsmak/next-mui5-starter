@@ -1,63 +1,28 @@
 ![Banner](/github-assets/next_mui5_starter_banner.png)
 
-# Next.js + MUI5 + NextTranslate Starter
+# Next.js 12 + MUI5 + next-translate starter
+
+This is a Next.js 12 starter based on MUI5 with integrated translations from next-translate (i18n) plugin for the rapid start into development of your next project. 
+It also uses MUI5 custom theming (dark and bright modes) with conditional rendering of certain elements according to the chosen mode. Of course it also supports "lazy loading" with next/image static images out of the box and SEO-functionality from next/seo. Additionally you also get the cookie consent component with an opportunity to adjust settings (turn on, turn off Vercel Analytics), as well as the adjusted and isolated translations both for the UI and dynamic content. There is a bunch of fancy components that you can use for the rapid prototyping: appbar, footer, cards, CV page, references page, cross sections (picture + text) and so on. Enjoy :)
+
+## What will come soon?
+
+I will expand the tutorial regarding the usage of this app very soon. I'm also going to add some additional functionality to the consent-manager (opportunity to revoke cookies), create a "leave confirmation dialog component" when you click on the external links,  add a function checking whether you're online or offline with the fallback page if your connection has been lost. Eventually, I will probably update this starter-kit to Next.js 13. Also I will add MDX-Plugin and the "blog" page section.
 
 ## Table of contents
 
 - [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Create config file](#create-config-file)
-  - [Building sitemaps](#building-sitemaps)
-    - [Custom config file](#custom-config-file)
-    - [Building sitemaps with pnpm](#building-sitemaps-with-pnpm)
-- [Index sitemaps](#index-sitemaps-optional)
-- [Splitting large sitemap into multiple files](#splitting-large-sitemap-into-multiple-files)
-- [Configuration Options](#configuration-options)
-- [Custom transformation function](#custom-transformation-function)
-- [Full configuration example](#full-configuration-example)
-- [Generating dynamic/server-side sitemaps](#generating-dynamicserver-side-sitemaps)
-- [Typescript JSDoc](#typescript-jsdoc)
+  - [Installation](#installation-and-start)
+- [What's next?](#what's-next?)
 
-## How to use
+## Getting started
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+### Installation and start
 
-<!-- #default-branch-switch -->
-
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
-```
-
-Install it and run:
-
-```sh
+```shell
 npm install
 npm run dev
 ```
-
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/nextjs)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs)
-
-## The idea behind the example
-
-The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
-
-## The link component
-
-The [example folder](https://github.com/mui/material-ui/tree/HEAD/examples/nextjs-with-typescript) provides an adapter for the use of [Next.js's Link component](https://nextjs.org/docs/api-reference/next/link) with MUI.
-More information [in the documentation](https://mui.com/material-ui/guides/routing/#next-js).
-
 ## What's next?
 
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+I know it lacks the proper documentation but I'm working on it right now.
