@@ -1,4 +1,4 @@
-![Banner](./assets/next_mui5_starter_banner.png)
+![Banner](/github-assets/next_mui5_starter_banner.png)
 
 # Next.js example
 
