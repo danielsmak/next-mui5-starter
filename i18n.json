@@ -1,0 +1,15 @@
+{
+  "locales": ["en", "de"],
+  "defaultLocale": "de",
+  "pages": {
+    "*": ["common"],
+    "/404": ["404"],
+    "/": ["home"],
+    "/resume": ["resume"],
+    "/references": ["references"],
+    "/files": ["files"],
+    "/legalnotice": ["legalnotice"],
+    "/dataprotection": ["dataprotection"],
+    "dynamic_content": ["dynamic-content"]
+  }
+}

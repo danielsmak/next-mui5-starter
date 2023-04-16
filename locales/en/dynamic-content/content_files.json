@@ -1,0 +1,52 @@
+[
+  {
+    "file_list_item_id": 0,
+    "file_list_item_name": "Your CV",
+    "file_list_item_tag": "Document",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+ 
+  {
+    "file_list_item_id": 1,
+    "file_list_item_name": "Your job reference",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 2,
+    "file_list_item_name": "Your job reference",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 3,
+    "file_list_item_name": "Your job reference",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 4,
+    "file_list_item_name": "Your job reference",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 5,
+    "file_list_item_name": "Your certificate",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 6,
+    "file_list_item_name": "Your certificate",
+    "file_list_item_tag": "Certificate",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 7,
+    "file_list_item_name": "Your Diploma",
+    "file_list_item_tag": "Diploma",
+    "file_list_item_download_link": "/test-file.pdf"
+  }
+
+]

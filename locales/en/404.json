@@ -1,0 +1,15 @@
+{
+  "page_title": "404 Error - Page Not Found",
+  "meta_description": "Sorry, the page you are looking for could not be found. Please check the URL and try again, or return to the homepage by clicking on 'Back to the home page' Button.",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/en/404",
+
+  "og_page_url": "https://www.yourapp.com/en/404",
+  "og_page_title": "404 Error - Page Not Found",
+  "og_page_description": "Sorry, the page you are looking for could not be found. Please check the URL and try again, or return to the homepage by clicking on 'Back to the home page' Button.",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_error_msg": "404 - Oops! We couldn't find this page",
+  "ui_btn_backhome": "Back to the home page"
+}

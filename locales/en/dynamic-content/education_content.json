@@ -1,0 +1,18 @@
+[
+  {
+    "education_card_id": 0,
+    "education_card_date": "July 1993 - Oct 2001",
+    "education_card_name": "Bachelor in Computer Science",
+    "education_card_edu_type": "Bachelor's degree",
+    "education_card_place": "Miami University, Miami, USA",
+    "education_card_description": "Description of the study program"
+  },
+  {
+    "education_card_id": 1,
+    "education_card_date": "July 2001 - Oct 2003",
+    "education_card_name": "Masters in Computer Science",
+    "education_card_edu_type": "Master's degree",
+    "education_card_place": "Miami University, Miami, USA",
+    "education_card_description": "Description of the study program"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "page_title": "Lebenslauf-Beispiel",
+  "meta_description": "Es ist eine Art Lebenslauf-Seite, wo du deine Arbeitserfahrungen und Skills eingeben kannst",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/resume",
+
+  "og_page_url": "https://www.yourapp.com/resume",
+  "og_page_title": "Lebenslauf-Beispiel",
+  "og_page_description": "Es ist eine Art Lebenslauf-Seite, wo du deine Arbeitserfahrungen und Skills eingeben kannst",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Lebenslauf-Beispiel",
+  "ui_page_subtitle": "Es ist eine Art Lebenslauf-Seite, wo du deine Arbeitserfahrungen und Skills eingeben kannst",
+
+  "ui_resume-block-title-1": "Berufliche Laufbahn",
+  "ui_resume-block-title-2": "Ausbildung",
+  "ui_resume-block-title-3": "Zertifikate",
+  "ui_resume-block-title-4": "Frontend Kompetenzen",
+  "ui_resume-block-title-5": "UX / UI Kompetenzen",
+  "ui_resume-block-title-6": "Persönliche Fähigkeiten",
+  "ui_resume-block-title-7": "EDV / ERP Kompetenzen",
+  "ui_resume-block-title-8": "Fremdsprachen"
+}

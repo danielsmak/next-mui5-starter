@@ -1,0 +1,34 @@
+[
+  {
+    "certificate_card_id": 0,
+    "certificate_card_date": "Ausgestellt am: Juni 1984",
+    "certificate_card_name": "Dein Zertifikatsname 1",
+    "certificate_card_edu_type": "Zertifikat",
+    "certificate_card_place": "Oxford Universität, England",
+    "certificate_card_description": "Beschreibung deines Zertifikates 1"
+  },
+  {
+    "certificate_card_id": 1,
+    "certificate_card_date": "Ausgestellt am: Okt. 2002",
+    "certificate_card_name": "Dein Zertifikatsname 2",
+    "certificate_card_edu_type": "Sprachzertifikat",
+    "certificate_card_place": "Oxford Universität, England",
+    "certificate_card_description": "Beschreibung deines Zertifikates 2"
+  },
+  {
+    "certificate_card_id": 2,
+    "certificate_card_date": "Ausgestellt am: Okt. 1993",
+    "certificate_card_name": "Dein Zertifikatsname 3",
+    "certificate_card_edu_type": "Sprachzertifikat",
+    "certificate_card_place": "Oxford Universität, England",
+    "certificate_card_description": "Beschreibung deines Zertifikates 3"
+  },
+  {
+    "certificate_card_id": 32,
+    "certificate_card_date": "Ausgestellt am: Okt. 2005",
+    "certificate_card_name": "Dein Zertifikatsname 4",
+    "certificate_card_edu_type": "Sprachzertifikat",
+    "certificate_card_place": "Oxford Universität, England",
+    "certificate_card_description": "Beschreibung deines Zertifikates 4"
+  }
+]

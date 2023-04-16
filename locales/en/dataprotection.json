@@ -1,0 +1,17 @@
+{
+  "page_title": "Data Protection",
+  "meta_description": "Data Protection Page",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/dataprotection",
+
+  "og_page_url": "https://www.yourapp.com/dataprotection",
+  "og_page_title": "Data Protection",
+  "og_page_description": "Data Protection Page",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title" : "Data Protection",
+
+  "ui_block_title_1" : "1. General Notes",
+  "ui_block_text_1": "The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data with which you can be personally identified. For detailed information on the subject of data protection, see our at privacy policy listed in this text."
+}

@@ -1,0 +1,40 @@
+{
+  "ui_cookie_title": "Cookies",
+  "ui_cookie_main_text": "Your privacy is very important! No personal data is stored on this website and no cookies are used. For purely technical reasons, only local storage is used to remember your language selection.",
+  "ui_cookie_faq_text_1": "What are cookies?",
+  "ui_cookie_faq_text_2": "What is local storage?",
+  "ui_cookie_faq_text_3": "What is Vercel Analytics?",
+  "ui_cookie_faq_reply_1": "Cookies are small text files / data packages that are created by a web browser and websites to store individual user data",
+  "ui_cookie_faq_reply_2": "Local Storage provides storage without an expiration date in the user's browser - for example to improve the loading time of the website.",
+  "ui_cookie_faq_reply_3": "Vercel Analytics is capable of capturing and displaying data such as page views, visitor numbers, dwell time, errors, and latency times.",
+
+  "ui_cookie_preferences_vercel_analytics": "Vercel Analytics",
+  "ui_cookie_preferences": "Adjust",
+  "ui_cookie_confirm_text": "Got it!",
+  "ui_cookie_preferences_back": "Back",
+  "ui_cookie_preferences_save": "Save",
+
+  "ui_appbar_logo_alt": "Your Logo",
+  "ui_drawer_logo_alt": "Your Logo",
+
+  "ui_appbar_nav_1": "Home",
+  "ui_appbar_nav_3": "Resume",
+  "ui_appbar_nav_4": "References",
+  "ui_appbar_nav_5": "Files",
+  
+
+  "ui_footer_nav_1": "Home",
+  "ui_footer_nav_3": "Resume",
+  "ui_footer_nav_4": "References",
+  "ui_footer_nav_5": "Files",
+
+  "ui_footer_nav_6": "Legal Notice",
+  "ui_footer_nav_7": "Data Protection",
+
+  "ui_footer_sublogo_text": "Next.js MUI5 Starter for rapid development with Next 12, MUI5 and NextTranslate",
+  "ui_footer_column_title_1": "Navigation",
+  "ui_footer_column_title_2": "Information",
+  "ui_footer_column_title_3": "Social Networks",
+
+  "ui_footer_signature": "Next.js MUI5 Starter von Daniels Makarenko"
+}

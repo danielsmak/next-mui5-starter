@@ -1,0 +1,34 @@
+[
+  {
+    "certificate_card_id": 0,
+    "certificate_card_date": "Issued in: June 1984",
+    "certificate_card_name": "Your Certificate Name 1",
+    "certificate_card_edu_type": "Certificate",
+    "certificate_card_place": "Oxford University, England",
+    "certificate_card_description": "Description of your Certificate 1"
+  },
+  {
+    "certificate_card_id": 1,
+    "certificate_card_date": "Issued in: Oct. 2002",
+    "certificate_card_name": "Your Certificate Name 2",
+    "certificate_card_edu_type": "Language Certificate",
+    "certificate_card_place": "Oxford University, England",
+    "certificate_card_description": "Description of your Certificate 2"
+  },
+  {
+    "certificate_card_id": 2,
+    "certificate_card_date": "Issued in: Oct. 1993",
+    "certificate_card_name": "Your Certificate Name 3",
+    "certificate_card_edu_type": "Language Certificate",
+    "certificate_card_place": "Oxford University, England",
+    "certificate_card_description": "Description of your Certificate 3"
+  },
+  {
+    "certificate_card_id": 3,
+    "certificate_card_date": "Issued in: Oct. 2005",
+    "certificate_card_name": "Your Certificate Name 4",
+    "certificate_card_edu_type": "Language Certificate",
+    "certificate_card_place": "Oxford University, England",
+    "certificate_card_description": "Description of your Certificate 4"
+  }
+]

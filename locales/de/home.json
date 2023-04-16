@@ -1,0 +1,46 @@
+{
+  "page_title": "Startseite",
+  "meta_description": "Startseite - deine Beschreibung ist hier",
+  "page_keywords": "Gib deine Keywords hier ein",
+  "page_canonical": "https://www.yourapp.com/",
+
+  "og_page_url": "https://www.yourapp.com/",
+  "og_page_title": "Startseite",
+  "og_page_description": "Startseite - deine Beschreibung ist hier.",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Startseite",
+  "ui_page_subtitle": "Hier findet man ein Beispiel einer Startseite",
+
+  "ui_profile_picture_alt": "Beschreibung des Alt-Tags deines Bildes",
+  "ui_profile_picture_title": "Startseite - deine Beschreibung ist hier.",
+
+  "ui_cross_section_title_1": "Hallo! Das ist ein",
+  "ui_cross_section-title_2": "Next.js MUI5 Starter",
+  "ui_cross_section_subtitle": "ein modernes Template womit du sehr schnell deine Entwicklung mit Next.js 12, MUI5 und NextTranslate starten kannst",
+  "ui_cross_section_calendly_btn": "Taste für Desktop",
+  "ui_cross_section_calendly_btn-mobile": "Mobile Taste",
+  "ui_cross_section_portfolio_btn": "Taste für Desktop 2",
+  "ui_cross_section_portfolio_btn-mobile": "Mobile Taste 2",
+
+  "ui_services_block_subtitle_1": "Dein Label 1",
+  "ui_services_block_subtitle_2": "Dein Label 2",
+  "ui_services_block_subtitle_3": "Dein Label 3",
+  "ui_services_block_subtitle_4": "Dein Label 4",
+
+  "ui_services_block_title_1": "Dein Kartenname 1",
+  "ui_services_block_title_2": "Dein Kartenname 2",
+  "ui_services_block_title_3": "Dein Kartenname 3",
+  "ui_services_block_title_4": "Dein Kartenname 4",
+  "ui_services_block_title_5": "Dein Kartenname 4",
+  "ui_services_block_title_6": "Dein Kartenname 5",
+
+  "ui_services_block_description_1": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 1",
+  "ui_services_block_description_2": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 2",
+  "ui_services_block_description_3": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 3",
+
+  "ui_services_block_description_4": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 4",
+  "ui_services_block_description_5": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 5",
+  "ui_services_block_description_6": "Hier kommt einer Beschreibung deiner Karte, schreib was hier auf Deutsch, mach es nicht zu kurz aber auch nicht zu lang 6"
+}

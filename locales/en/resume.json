@@ -1,0 +1,24 @@
+{
+  "page_title": "Resume Example",
+  "meta_description": "It is a type of resume page where you can enter your work experience and skills.",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/en/resume",
+
+  "og_page_url": "https://www.yourapp.com/en/resume",
+  "og_page_title": "Resume Example",
+  "og_page_description": "It is a type of resume page where you can enter your work experience and skills.",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Resume Example",
+  "ui_page_subtitle": "It is a type of resume page where you can enter your work experience and skills.",
+
+  "ui_resume-block-title-1": "Professional career",
+  "ui_resume-block-title-2": "Education",
+  "ui_resume-block-title-3": "Certificates",
+  "ui_resume-block-title-4": "Frontend Skills",
+  "ui_resume-block-title-5": "UX / UI Skills",
+  "ui_resume-block-title-6": "Personal skills",
+  "ui_resume-block-title-7": "General IT / ERP skills",
+  "ui_resume-block-title-8": "Foreign languages"
+}

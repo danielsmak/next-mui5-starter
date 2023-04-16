@@ -1,0 +1,26 @@
+[
+  {
+    "languageskills_chip_id": 0,
+    "languageskills_chip_name": "Deutsche Sprache (Muttersprache)",
+    "languageskills_chip_image": "/german-icon.png",
+    "languageskills_chip_image_alt_name": "Deutsch"
+  },
+  {
+    "languageskills_chip_id": 1,
+    "languageskills_chip_name": "Englische Sprache (C1)",
+    "languageskills_chip_image": "/english-icon.png",
+    "languageskills_chip_image_alt_name": "Englisch"
+  },
+  {
+    "languageskills_chip_id": 2,
+    "languageskills_chip_name": "Russische Sprache (B2)",
+    "languageskills_chip_image": "/russian-icon.png",
+    "languageskills_chip_image_alt_name": "Russisch"
+  },
+  {
+    "languageskills_chip_id": 3,
+    "languageskills_chip_name": "Norwegische Sprache (B1)",
+    "languageskills_chip_image": "/norwegian-icon.png",
+    "languageskills_chip_image_alt_name": "Norwegisch"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "page_title": "Application documents",
+  "meta_description": "Your files can be downloaded here",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/en/files",
+
+  "og_page_url": "https://www.yourapp.com/en/files",
+  "og_page_title": "Application documents",
+  "og_page_description": "Your files can be downloaded here",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Application documents",
+  "ui_page_subtitle": "Your files can be downloaded here"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "nextjs",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "postbuild": "next-sitemap",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@emotion/cache": "11.10.3",
+    "@emotion/react": "11.10.4",
+    "@emotion/server": "11.10.0",
+    "@emotion/styled": "11.10.4",
+    "@mui/icons-material": "5.10.6",
+    "@mui/material": "5.10.6",
+    "@vercel/analytics": "^0.1.8",
+    "next": "12.3.1",
+    "next-image-zoom": "^1.1.7",
+    "next-seo": "^6.0.0",
+    "next-sitemap": "^3.1.44",
+    "next-translate": "^1.6.0",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-awesome-reveal": "^4.1.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "prettier": "^2.7.1"
+  }
+}

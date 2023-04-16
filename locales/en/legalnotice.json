@@ -1,0 +1,36 @@
+{
+  "page_title": "Legal Notice",
+  "meta_description": "Legal Notice Page",
+  "page_keywords": "",
+  "page_canonical": "https://www.yourapp.com/en/legalnotice",
+
+  "og_page_url": "https://www.yourapp.com/en/legalnotice",
+  "og_page_title": "Legal Notice",
+  "og_page_description": "Legal Notice Page",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Legal Notice",
+  "ui_page_subtitle": "",
+
+  "ui_block_title_1": "Information according to § 5 TMG",
+  "ui_block_text_1": "First name Last name\nYour street \nPostcode Munich\nGermany",
+
+  "ui_block_title_2" : "Contact",
+  "ui_block_text_2" : "Phone: Your number\nEmail: info@youraddress.com",
+
+  "ui_block_title_3" : "VAT identification number",
+  "ui_block_text_3" : "VAT identification number according to § 27 a of the German Value Added Tax Act:\nTax No.: dein number",
+
+  "ui_block_title_4" : "Editorial responsibility",
+  "ui_block_text_4": "First Name Last Name\nAachener Str.\n10 40223\nDüsseldorf\nGermany",
+  "ui_block_text_5" : "Phone: Your number\nEmail: info@youraddress.com",
+
+  "ui_block_title_5" : "EU dispute resolution",
+  "ui_block_text_d_6" : "The European Commission provides a platform for online dispute resolution (ODR)",
+  "ui_block_text_d_link_6" : "https://ec.europa.eu/consumers/odr/",
+  "ui_block_text_d_7" : "You can find our email address in the imprint above.",
+
+  "ui_block_title_6" : "Consumer dispute resolution / Universal arbitration board",
+  "ui_block_text_8" : "We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+}

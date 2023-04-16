@@ -1,0 +1,52 @@
+[
+  {
+    "file_list_item_id": 0,
+    "file_list_item_name": "Dein CV",
+    "file_list_item_tag": "Dokument",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  
+  {
+    "file_list_item_id": 1,
+    "file_list_item_name": "Dein Arbeitszeugniss",
+    "file_list_item_tag": "Zeugnis",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 2,
+    "file_list_item_name": "Dein Arbeitszeugniss",
+    "file_list_item_tag": "Zeugnis",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 3,
+    "file_list_item_name": "Dein Arbeitszeugniss",
+    "file_list_item_tag": "Zeugnis",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 4,
+    "file_list_item_name": "Dein Arbeitszeugniss",
+    "file_list_item_tag": "Zeugnis",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 5,
+    "file_list_item_name": "Dein Zertifikat",
+    "file_list_item_tag": "Zertifikat",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 6,
+    "file_list_item_name": "Dein Zertifikat",
+    "file_list_item_tag": "Zertifikat",
+    "file_list_item_download_link": "/test-file.pdf"
+  },
+  {
+    "file_list_item_id": 7,
+    "file_list_item_name": "Dein Diplom",
+    "file_list_item_tag": "Diplom",
+    "file_list_item_download_link": "/test-file.pdf"
+  }
+ 
+]

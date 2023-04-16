@@ -1,0 +1,58 @@
+[
+  {
+    "reference_card_id": 0,
+    "reference_card_image": "/avatar_1.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 1,
+    "reference_card_image": "/avatar_2.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 2,
+    "reference_card_image": "/avatar_3.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 3,
+    "reference_card_image": "/avatar_4.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 4,
+    "reference_card_image": "/avatar_5.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 5,
+    "reference_card_image": "/avatar_6.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 6,
+    "reference_card_image": "/avatar_7.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  },
+  {
+    "reference_card_id": 7,
+    "reference_card_image": "/avatar_8.png",
+    "reference_card_name": "Vorname Nachname",
+    "reference_card_job_title": "Firmenname",
+    "reference_card_description": "Beschreibung deiner Kompetenzen"
+  }
+]

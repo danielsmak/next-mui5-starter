@@ -1,0 +1,46 @@
+{
+  "page_title": "Homepage",
+  "meta_description": "Homepage - your description is here",
+  "page_keywords": "Enter your keywords here",
+  "page_canonical": "https://www.yourapp.com/",
+
+  "og_page_url": "https://www.yourapp.com/",
+  "og_page_title": "Homepage",
+  "og_page_description": "Homepage - your description is here.",
+  "og_page_img1_alt": "",
+  "og_page_sitename": "Next.js MUI5 Starter",
+
+  "ui_page_title": "Homepage",
+  "ui_page_subtitle": "Here is an example of a homepage",
+
+  "ui_profile_picture_alt": "Description of your image's alt tag",
+  "ui_profile_picture_title": "Homepage - your description is here.",
+
+  "ui_cross_section_title_1": "Hello! This is a",
+  "ui_cross_section-title_2": "Next.js MUI5 Starter",
+  "ui_cross_section_subtitle": "a modern template to quickly start your development with Next.js 12, MUI5, and NextTranslate",
+  "ui_cross_section_calendly_btn": "Button for desktop",
+  "ui_cross_section_calendly_btn-mobile": "Mobile button",
+  "ui_cross_section_portfolio_btn": "Button for desktop 2",
+  "ui_cross_section_portfolio_btn-mobile": "Mobile button 2",
+
+  "ui_services_block_subtitle_1": "Your label 1",
+  "ui_services_block_subtitle_2": "Your label 2",
+  "ui_services_block_subtitle_3": "Your label 3",
+  "ui_services_block_subtitle_4": "Your label 4",
+
+  "ui_services_block_title_1": "Your card name 1",
+  "ui_services_block_title_2": "Your card name 2",
+  "ui_services_block_title_3": "Your card name 3",
+  "ui_services_block_title_4": "Your card name 4",
+  "ui_services_block_title_5": "Your card name 4",
+  "ui_services_block_title_6": "Your card name 5",
+
+  "ui_services_block_description_1": "Here comes a description of your card, write something here in English, don't make it too short but not too long 1",
+  "ui_services_block_description_2": "Here comes a description of your card, write something here in English, don't make it too short but not too long 2",
+  "ui_services_block_description_3": "Here comes a description of your card, write something here in English, don't make it too short but not too long 3",
+
+  "ui_services_block_description_4": "Here comes a description of your card, write something here in English, don't make it too short but not too long 4",
+  "ui_services_block_description_5": "Here comes a description of your card, write something here in English, don't make it too short but not too long 5",
+  "ui_services_block_description_6": "Here comes a description of your card, write something here in English, don't make it too short but not too long 6"
+}

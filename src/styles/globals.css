@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}

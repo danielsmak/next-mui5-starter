@@ -1,0 +1,30 @@
+[
+  {
+    "uxskill_chip_id": 0,
+    "uxskill_chip_name": "Figma"
+  },
+  {
+    "uxskill_chip_id": 1,
+    "uxskill_chip_name": "Maze"
+  },
+  {
+    "uxskill_chip_id": 2,
+    "uxskill_chip_name": "UX Research"
+  },
+  {
+    "uxskill_chip_id": 3,
+    "uxskill_chip_name": "User Personas"
+  },
+  {
+    "uxskill_chip_id": 5,
+    "uxskill_chip_name": "User Journey Mapping"
+  },
+  {
+    "uxskill_chip_id": 6,
+    "uxskill_chip_name": "User Flows / Task Flows"
+  },
+  {
+    "uxskill_chip_id": 7,
+    "uxskill_chip_name": "Affinity Diagrams"
+  }
+]

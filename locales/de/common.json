@@ -1,0 +1,40 @@
+{
+  "ui_cookie_title": "Cookies",
+  "ui_cookie_main_text": "Ihre Privatsphäre ist sehr wichtig! Es werden unsererseits keine persönlichen Daten auf dieser Webseite abgespeichert. Es werden Cookies und ein lokaler Speicher nur für technischen Zwecke verwendet.",
+  "ui_cookie_faq_text_1": "Was sind Cookies?",
+  "ui_cookie_faq_text_2": "Was ist ein lokaler Speicher?",
+  "ui_cookie_faq_text_3": "Was ist Vercel Analytics?",
+  "ui_cookie_faq_reply_1": "Cookies sind kleine Textdateien / Datenpakete, die von einem Webbrowser und Internetseiten erzeugt werden, um individuelle Nutzerdaten abzuspeichern.",
+  "ui_cookie_faq_reply_2": "Ein lokaler Speicher (local storage) stellt Speicher ohne Ablaufdatum im Browser des Benutzers zur Verfügung, um zum Beispiel die Ladezeit der Webseite zu verbessern.",
+  "ui_cookie_faq_reply_3": "Vercel Analytics ist in der Lage, Daten wie Seitenaufrufe, Besucherzahlen, Verweildauer, Fehler und Latenzzeiten zu erfassen und darzustellen.",
+
+  "ui_cookie_preferences_vercel_analytics": "Vercel Analytics",
+  "ui_cookie_preferences": "Anpassen",
+  "ui_cookie_confirm_text": "Alles klar!",
+  "ui_cookie_preferences_back": "Zurück",
+  "ui_cookie_preferences_save": "Speichern",
+
+  "ui_appbar_logo_alt": "Dein Logo",
+  "ui_drawer_logo_alt": "Dein Logo",
+
+  "ui_appbar_nav_1": "Home",
+  "ui_appbar_nav_3": "Lebenslauf",
+  "ui_appbar_nav_4": "Referenzen",
+  "ui_appbar_nav_5": "Unterlagen",
+
+
+  "ui_footer_nav_1": "Home",
+  "ui_footer_nav_3": "Lebenslauf",
+  "ui_footer_nav_4": "Referenzen",
+  "ui_footer_nav_5": "Unterlagen",
+
+  "ui_footer_nav_6": "Impressum",
+  "ui_footer_nav_7": "Datenschutzerklärung",
+
+  "ui_footer_sublogo_text": "Next.js MUI5 Starter für eine schnelle Entwicklung mit Next 12, MUI5 und NextTranslate",
+  "ui_footer_column_title_1": "Navigation",
+  "ui_footer_column_title_2": "Informationen",
+  "ui_footer_column_title_3": "Soziale Netzwerke",
+
+  "ui_footer_signature": "Next.js MUI5 Starter von Daniels Makarenko"
+}
