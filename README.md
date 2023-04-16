@@ -1,5 +1,8 @@
 ![Banner](/github-assets/next_mui5_starter_banner-pic.png)
 
+### Deutsche Version: 
+[Ich möchte diese Beschreibung auf Deutsch lesen](https://github.com/danielsmak/next-mui5-starter/blob/master/README-DE.md)
+
 # Next.js 12 + MUI5 + next-translate starter
 
 This is a Next.js 12 starter based on MUI5 with integrated translations from next-translate (i18n) plugin for the rapid start into development of your next project. 
