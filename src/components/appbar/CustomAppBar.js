@@ -17,7 +17,8 @@ import {
 //Custom Components import
 import AppBarLogoDark from './logo/AppBarLogoDark';
 import AppBarLogoLight from './logo/AppBarLogoLight';
-import DrawerLogo from './logo/DrawerLogo';
+import DrawerLogoDark from './logo/DrawerLogoDark';
+import DrawerLogoLight from './logo/DrawerLogoLight';
 import DrawerHamburgerIcon from './buttons/DrawerHamburgerIcon';
 import AppBarNavigationButtons from './buttons/AppBarNavigationButtons';
 import DrawerNavigationButtons from './buttons/DrawerNavigationButtons';
@@ -82,7 +83,7 @@ const CustomAppBar = (props) => {
               {/* Hamburger Button that appears on mobile view and activates the drawer */}
               <DrawerHamburgerIcon handleDrawerToggle={handleDrawerToggle} />
               {/* Appbar logo */}
-              <AppBarLogoDark />
+              {isDark ? <AppBarLogoDark /> : <AppBarLogoLight />}
               {/* Appbar navigation menu buttons */}
               <AppBarNavigationButtons />
               <Box sx={{ display: 'flex' }}>
@@ -134,7 +135,7 @@ const CustomAppBar = (props) => {
                 }}
               >
                 {/* Drawer logo*/}
-                <DrawerLogo />
+                {isDark ? <DrawerLogoDark /> : <DrawerLogoLight />}
               </div>
 
               <Divider />

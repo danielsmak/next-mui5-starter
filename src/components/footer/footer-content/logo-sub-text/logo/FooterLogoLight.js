@@ -15,7 +15,7 @@ const FooterLogoLight = () => {
         <Link href="/">
           <img
             className="footer-logo-img"
-            src="/your-logo.png"
+            src="/your-logo-light.png"
             alt="logo"
           />
         </Link>

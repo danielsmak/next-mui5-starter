@@ -15,7 +15,7 @@ const FooterLogoDark = () => {
         <Link href="/">
           <img
             className="footer-logo-img"
-            src="/your-logo.png"
+            src="/your-logo-dark.png"
             alt="logo"
           />
         </Link>

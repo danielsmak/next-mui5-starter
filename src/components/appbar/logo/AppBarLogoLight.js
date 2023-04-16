@@ -16,7 +16,7 @@ const AppBarLogoLight = () => {
         <CustomNextLink href="/">
           <img
             className="appbar-logo-img"
-            src="/your-logo.png"
+            src="/your-logo-light.png"
             alt={useNextTranslate('common:ui_appbar_logo_alt')}
           />
         </CustomNextLink>

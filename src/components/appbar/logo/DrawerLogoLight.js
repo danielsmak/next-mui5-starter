@@ -6,7 +6,7 @@ import useTranslation from 'next-translate/useTranslation';
 import CustomNextLink from '../../CustomNextLink';
 
 //Drawer Logo Component
-const DrawerLogo = () => {
+const DrawerLogoLight = () => {
   //Giving the original next-translate function (called "t") a better name
   const { t: useNextTranslate } = useTranslation();
 
@@ -15,7 +15,7 @@ const DrawerLogo = () => {
       <CustomNextLink href="/">
         <img
           className="drawer-logo-img"
-          src="your-logo.png"
+          src="your-logo-light.png"
           alt={useNextTranslate('common:ui_drawer_logo_alt')}
         />
       </CustomNextLink>
@@ -23,4 +23,4 @@ const DrawerLogo = () => {
   );
 };
 
-export default DrawerLogo;
+export default DrawerLogoLight;

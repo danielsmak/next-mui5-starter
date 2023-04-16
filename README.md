@@ -1,6 +1,22 @@
 ![Banner](/github-assets/next_mui5_starter_banner.png)
 
-# Next.js example
+# Next.js + MUI5 + NextTranslate Starter
+
+## Table of contents
+
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+  - [Create config file](#create-config-file)
+  - [Building sitemaps](#building-sitemaps)
+    - [Custom config file](#custom-config-file)
+    - [Building sitemaps with pnpm](#building-sitemaps-with-pnpm)
+- [Index sitemaps](#index-sitemaps-optional)
+- [Splitting large sitemap into multiple files](#splitting-large-sitemap-into-multiple-files)
+- [Configuration Options](#configuration-options)
+- [Custom transformation function](#custom-transformation-function)
+- [Full configuration example](#full-configuration-example)
+- [Generating dynamic/server-side sitemaps](#generating-dynamicserver-side-sitemaps)
+- [Typescript JSDoc](#typescript-jsdoc)
 
 ## How to use
 

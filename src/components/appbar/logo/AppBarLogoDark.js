@@ -16,7 +16,7 @@ const AppBarLogoDark = () => {
         <CustomNextLink href="/">
           <img
             className="appbar-logo-img"
-            src="/your-logo.png"
+            src="/your-logo-dark.png"
             alt={useNextTranslate('common:ui_appbar_logo_alt')}
           />
         </CustomNextLink>
