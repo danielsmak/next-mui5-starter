@@ -1,4 +1,4 @@
-![Banner](/github-assets/next_mui5_starter_banner.png)
+![Banner](/github-assets/next_mui5_starter_banner-pic.png)
 
 # Next.js 12 + MUI5 + next-translate starter
 
