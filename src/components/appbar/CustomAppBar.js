@@ -26,6 +26,7 @@ import DrawerSocialButtons from './buttons/DrawerSocialButtons';
 import ThemeSwitcher from './buttons/ThemeSwitcher';
 import LanguageSwitcher from './buttons/LanguageSwitcher';
 
+
 //Only needed if you want to use Hide on scroll function for your headbar
 /*
 import useScrollTrigger from '@mui/material/useScrollTrigger';
