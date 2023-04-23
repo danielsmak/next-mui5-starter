@@ -105,7 +105,6 @@ const DrawerNavigationButtons = () => {
             {useNextTranslate('common:ui_appbar_nav_5')}
           </ListItemButton>
         </ListItem>
-      
       </List>
     </>
   );

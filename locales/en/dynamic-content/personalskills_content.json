@@ -1,18 +1,18 @@
 [
   {
-  "personalskills_chip_id": 0,
-  "personalskills_chip_name": "Stress resistance"
+    "personalskills_chip_id": 0,
+    "personalskills_chip_name": "Stress resistance"
   },
   {
-  "personalskills_chip_id": 1,
-  "personalskills_chip_name": "Discipline"
+    "personalskills_chip_id": 1,
+    "personalskills_chip_name": "Discipline"
   },
   {
-  "personalskills_chip_id": 2,
-  "personalskills_chip_name": "Problem-solving skills"
+    "personalskills_chip_id": 2,
+    "personalskills_chip_name": "Problem-solving skills"
   },
   {
-  "personalskills_chip_id": 3,
-  "personalskills_chip_name": "Creativity"
+    "personalskills_chip_id": 3,
+    "personalskills_chip_name": "Creativity"
   }
-  ]
+]

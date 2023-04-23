@@ -58,8 +58,6 @@ const FooterNavRow = () => {
               {useNextTranslate('common:ui_footer_nav_5')}
             </Typography>
           </Link>
-
-         
         </div>
       </Grid>
     </>

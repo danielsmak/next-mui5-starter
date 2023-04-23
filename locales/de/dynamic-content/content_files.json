@@ -5,7 +5,7 @@
     "file_list_item_tag": "Dokument",
     "file_list_item_download_link": "/test-file.pdf"
   },
-  
+
   {
     "file_list_item_id": 1,
     "file_list_item_name": "Dein Arbeitszeugniss",
@@ -48,5 +48,4 @@
     "file_list_item_tag": "Diplom",
     "file_list_item_download_link": "/test-file.pdf"
   }
- 
 ]

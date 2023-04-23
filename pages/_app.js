@@ -1,19 +1,19 @@
 //Import react library
 import React from 'react';
-//Import Prop-Types as useful package to add to any vanilla React app that does not use TypeScript to check the types of React components’ props at run-time.
+//Import Prop-Types as useful package to add to any vanilla React app that does not use TypeScript to check the types of React components’ props at run-time
 import PropTypes from 'prop-types';
 //Import Head from next.js
 import Head from 'next/head';
-//ThemeProvider component from MUI5 to be able to give the whole app theme props from theme theme.js files.
+//ThemeProvider component from MUI5 to be able to give the whole app theme props from theme theme.js files
 import { ThemeProvider } from '@mui/material/styles';
-//Baseline from MUI5 to set CSS to reset
+//Baseline from MUI5 to reset CSS
 import CssBaseline from '@mui/material/CssBaseline';
-//CashProvider from MUI5 emotion library to provide a shared client-side cache for a user session
+//CacheProvider from MUI5 emotion library to provide a shared client-side cache for a user session
 import { CacheProvider } from '@emotion/react';
 
 //Custom components
-//We createEmotionCache import to assure that MUI styles are loaded first.
-import createEmotionCache from '../src/styles/createEmotionCache';
+//We CreateEmotionCache import to assure that MUI styles are loaded first
+import CreateEmotionCache from '../src/styles/CreateEmotionCache';
 import DarkTheme from '../src/styles/DarkTheme';
 import LightTheme from '../src/styles/LightTheme';
 import CookiesModal from '../src/components/modals/cookies-modal/CookiesModal';
@@ -24,11 +24,8 @@ import ScrollUpButton from '../src/components/ScrollUpButton';
 //Import Vercel Analytics
 import { Analytics } from '@vercel/analytics/react';
 
-//Custom CSS override styles
-import '../src/styles/globals.css';
-
-//Client-side cache, shared for the whole session of the user in the browser.
-const clientSideEmotionCache = createEmotionCache();
+//Client-side cache, shared for the whole session of the user in the browser
+const clientSideEmotionCache = CreateEmotionCache();
 
 const MyApp = (props) => {
   const { Component, emotionCache = clientSideEmotionCache, pageProps } = props;
@@ -73,11 +70,11 @@ const MyApp = (props) => {
       <Head>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
       </Head>
-      {/* MUI5 Theme Provider Component to apply theme styles for the entire app. */}
+      {/* MUI5 Theme Provider Component to apply theme styles for the entire app */}
       <ThemeProvider theme={isDark ? DarkTheme : LightTheme}>
         {/* MUI5 reset styles component. */}
         <CssBaseline />
-        {/* Cookies Modal (Dialogue) that will appear on every router unless you accept this. */}
+        {/* Cookies Modal (Dialogue) that will appear on every router unless you accept this */}
         <CookiesModal />
 
         {/* Appbar (Header) with props for the language and theme switch */}

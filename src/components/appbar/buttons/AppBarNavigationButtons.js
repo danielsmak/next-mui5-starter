@@ -63,8 +63,6 @@ const AppBarNavigationButtons = () => {
           >
             {useNextTranslate('common:ui_appbar_nav_5')}
           </Button>
-
-        
         </Box>
       </div>
     </>

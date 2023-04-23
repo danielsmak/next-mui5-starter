@@ -1,9 +1,9 @@
 //Next document
 import Document, { Html, Head, Main, NextScript } from 'next/document';
-//Import emotion cash server
+//Import emotion Cache server
 import createEmotionServer from '@emotion/server/create-instance';
 // We import to assure that MUI styles are loaded first.
-import createEmotionCache from '../src/styles/createEmotionCache';
+import CreateEmotionCache from '../src/styles/CreateEmotionCache';
 
 //Import dark theme component
 import DarkTheme from '../src/styles/DarkTheme';
@@ -121,7 +121,7 @@ MyDocument.getInitialProps = async (ctx) => {
 
   // You can consider sharing the same Emotion cache between all the SSR requests to speed up performance.
   // However, be aware that it can have global side effects.
-  const cache = createEmotionCache();
+  const cache = CreateEmotionCache();
   const { extractCriticalToChunks } = createEmotionServer(cache);
 
   ctx.renderPage = () =>

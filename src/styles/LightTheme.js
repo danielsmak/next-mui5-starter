@@ -13,7 +13,7 @@ const LightMode = {
 
   //Theme body/html background
   '--themeBackground': '#f1efef',
-  //Main theme color (like feature color red, green, blue and so on)
+  // Main theme color (Secondary color that is applied for the components like titles, sub-titles, icons, buttons etc.)
   '--themePrimary': '#626add',
   //UI background for elements like cards and so on
   '--themePaperBackground': '#FFFFFF',
@@ -228,7 +228,7 @@ LightTheme = createTheme({
     MuiCard: {
       styleOverrides: {
         root: sx({
-          backgroundColor: 'black',
+          backgroundColor: LightMode['--themePaperBackground'],
           backdropFilter: 'none',
           color: 'white',
           borderRadius: LightMode['--cardBorderRadius'],
@@ -266,9 +266,28 @@ LightTheme = createTheme({
     /* All our custom components including pages */
     MuiCssBaseline: {
       styleOverrides: {
+
         /* Here are firstly the isolated custom components (that are used at any view of the app) */
-        /* Appbar component */
         body: {
+          
+          /* Hiding Scrollbar */
+          '&::-webkit-scrollbar': {
+            width: '0px',
+            background: 'transparent',
+          },
+
+          /* All "a" tags (links) styles */
+          '& a': {
+            textDecoration: 'none',
+          },
+          '& a:link': {
+            textDecoration: 'none',
+          },
+          '& a:hover': {
+            textDecoration: 'none',
+          },
+
+          /* Appbar component */
           '& .appbar-wrapper': {
             height: '64px!important',
             [LightTheme.breakpoints.only('xs')]: {

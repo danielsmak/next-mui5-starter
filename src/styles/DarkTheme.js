@@ -13,8 +13,8 @@ const DarkMode = {
 
   //Theme body/html background
   '--themeBackground': '#101010',
-  //Main theme color (like feature color red, green, blue and so on)
-  '--themePrimary': '#4AFF9D', 
+  // Main theme color (Secondary color that is applied for the components like titles, sub-titles, icons, buttons etc.)
+  '--themePrimary': '#4AFF9D',
   //UI background for elements like cards and so on
   '--themePaperBackground': '#1e1e1e',
 
@@ -228,7 +228,7 @@ DarkTheme = createTheme({
     MuiCard: {
       styleOverrides: {
         root: sx({
-          backgroundColor: 'black',
+          backgroundColor: DarkMode['--themePaperBackground'],
           backdropFilter: 'none',
           color: 'white',
           borderRadius: DarkMode['--cardBorderRadius'],
@@ -267,14 +267,33 @@ DarkTheme = createTheme({
     MuiCssBaseline: {
       styleOverrides: {
         /* Here are firstly the isolated custom components (that are used at any view of the app) */
-        /* Appbar component */
         body: {
+          
+          /* Hiding Scrollbar */
+          '&::-webkit-scrollbar': {
+            width: '0px',
+            background: 'transparent',
+          },
+
+          /* All "a" tags (links) styles */
+          '& a': {
+            textDecoration: 'none',
+          },
+          '& a:link': {
+            textDecoration: 'none',
+          },
+          '& a:hover': {
+            textDecoration: 'none',
+          },
+
+          /* Appbar component */
           '& .appbar-wrapper': {
             height: '64px!important',
             [DarkTheme.breakpoints.only('xs')]: {
               height: '56px!important',
             },
           },
+
           '& nav': {
             zIndex: '10!important',
           },

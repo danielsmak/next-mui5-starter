@@ -19,7 +19,7 @@ const FooterSocialRow = () => {
           <Typography className="footer-link__section-title" variant="h4">
             {useNextTranslate('common:ui_footer_column_title_3')}
           </Typography>
-          <CustomNextLink   target="_blank" href="https://www.linkedin.com/">
+          <CustomNextLink target="_blank" href="https://www.linkedin.com/">
             <Typography
               className="footer-link"
               sx={{ textAlign: 'left' }}
@@ -28,7 +28,7 @@ const FooterSocialRow = () => {
               LinkedIn
             </Typography>
           </CustomNextLink>
-          <CustomNextLink   target="_blank" href="https://www.xing.com/">
+          <CustomNextLink target="_blank" href="https://www.xing.com/">
             <Typography
               className="footer-link"
               sx={{ textAlign: 'left' }}
@@ -37,7 +37,7 @@ const FooterSocialRow = () => {
               Xing
             </Typography>
           </CustomNextLink>
-          <CustomNextLink   target="_blank"href="https://dribbble.com/">
+          <CustomNextLink target="_blank" href="https://dribbble.com/">
             <Typography
               className="footer-link"
               sx={{ textAlign: 'left' }}

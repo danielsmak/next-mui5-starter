@@ -22,6 +22,7 @@ Ich werde das Tutorial zur Verwendung dieser App bald erweitern. Ich werde auch 
 npm install
 npm run dev
 ```
+
 ## Was kommt als nächstes?
 
 I know it lacks the proper documentation but I'm working on it right now.
